@@ -1,1 +1,1 @@
-Hello_Mir
+print("Hello_World!);
