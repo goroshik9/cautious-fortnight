@@ -1,3 +1,2 @@
 print("_Hello_World!);
 
-всем привет
